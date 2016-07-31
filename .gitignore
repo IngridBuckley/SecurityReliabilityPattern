@@ -1,0 +1,6 @@
+/target/
+**/*~
+pom.ref.xml
+.project
+.classpath
+/bin/
